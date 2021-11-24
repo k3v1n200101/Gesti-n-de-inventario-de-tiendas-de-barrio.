@@ -11,5 +11,6 @@ public class TestLog {
 
         //Log in console in and log file
         logger.debug("Log4j appender configuration is successful !!");
+        System.out.println("uigsdsuigasighiusuis");
     }
 }
