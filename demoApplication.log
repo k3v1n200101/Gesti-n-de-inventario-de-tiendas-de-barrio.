@@ -1,1 +1,8 @@
 [main] DEBUG TestLog  - Log4j appender configuration is successful !!
+[main] DEBUG TestLog  - Log4j appender configuration is successful !!
+[main] DEBUG TestLog  - debug:
+
+[main] INFO  TestLog  - info:
+
+[main] ERROR TestLog  - error:
+
